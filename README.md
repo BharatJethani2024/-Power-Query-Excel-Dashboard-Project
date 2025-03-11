@@ -2,7 +2,9 @@
 📊 Power Query &amp; Excel Dashboard Project
 I’m excited to share my latest project, where I combined key learnings from my course with new techniques to create an interactive and insightful dashboard! 🚀
 
+
 🔹 Key Achievements:
+
 ✅ Data Import & Transformation: Imported data from a large text file using Power Query and set up a single connection to the master data file.
 
 ✅ Efficient Query Setup: Created 3 separate queries from the master data using referencing queries.
